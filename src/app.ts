@@ -24,7 +24,7 @@ app.use((req, _res, next) => {
     console.log(`${req.method} ${req.originalUrl}`);
     next();
 });
-
+//comment
 app.listen(PORT, () => {
     console.log("Server is running on port", PORT);
     });
