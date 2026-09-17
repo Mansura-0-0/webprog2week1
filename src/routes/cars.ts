@@ -1,6 +1,6 @@
 import { Router } from 'express'; 
 
-import { CarController } from '../../Controllers/cars'; 
+import { CarController } from '../Controllers/cars'; 
 
  
 
